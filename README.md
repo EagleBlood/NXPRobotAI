@@ -61,5 +61,7 @@ The board is powered by a set of six batteries, providing full autonomy to the r
   <img src="imgs/Frame 88.png" width="50%"/>
 </p>
 
+# 
 
+[<img src="imgs/logo.png" width="100"/>]([https://www.nxp.com](https://anstar.edu.pl/wydzialy/wydzial-politechniczny/katedry/katedra-informatyki/))<br/>
 [<img src="https://mcuxpresso.nxp.com/static/icon/nxp-logo-color.svg" width="100"/>](https://www.nxp.com)
